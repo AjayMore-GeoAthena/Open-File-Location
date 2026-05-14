@@ -1,0 +1,12 @@
+[general]
+name=OpenFileLocation
+description=Adds a right-click menu option to open the file location of a layer
+version=1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=GeoAthena
+email=ajay.more@geoathena.com
+about=Quickly open the file location of any file-based layer directly from the Layer Manager
+category=Plugins
+icon=icon.png
+tags=file,layer,context menu,utilities
