@@ -14,4 +14,4 @@ This plugin adds a right-click context menu option to open the file location of 
 4. In QGIS: Plugins → Manage and Install Plugins → Install from ZIP, or place directly in your profile plugins folder.
 
 ## Author
-Ajay
+Ajay More (GeoAthena)
